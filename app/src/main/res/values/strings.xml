@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ODRua</string>
+    <string name="classArv">Arvore</string>
+    <string name="classCar">Carro</string>
+    <string name="classPla">Placa</string>
+    <string name="classPos">Poste</string>
+    <string name="classLix">Lixeira</string>
+</resources>
